@@ -1,0 +1,62 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 10
+}
+
+body {
+  margin: 0px;
+  padding: 10px;
+  font-family: "Roboto Slab", serif;
+  background-color: #2B3856;
+}
+
+.app {
+  text-align: center;
+    color: black
+}
+
+.title {
+  font-size: 60px;
+  color: black
+}
+
+.question {
+  margin: 15px;
+  font-size: 20px;
+  font-weight: bold;
+    color: black
+}
+
+.answers {
+  line-height: 2;
+  margin: 15px;
+  font-size: 17px;
+ align-items:center;
+    color: black
+  
+}
+
+.answer-choice {
+  border: solid 5px black;
+  border-radius: 10px;
+  width: 200px;
+  margin: 5px auto;
+  font-family: "Do Hyeon", sans-serif;
+  display: flex;
+    color: black
+}
+
+.prompt {
+  font-size: 22px;
+    color: black
+}
+
+button {
+  padding: 10px;
+  border: ridge 5px black;
+  border-radius: 10px;
+  margin: 10px;
+  color: black;
+  align-items:center;
+}
